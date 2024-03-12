@@ -1,4 +1,4 @@
-=> Thanks for giving me this wonderful opportunity I learned something very unique and new to me. 
+=> MERN STACK LOGIN SIGNUP APPLICATION WITH AUTH USING JWT AND PASSWORD HASHING USING BCRYPT
 
 => To run the application, first open the client/assignment directory and in the terminal type "npm run dev", This will initialize the front end of the application.
 
